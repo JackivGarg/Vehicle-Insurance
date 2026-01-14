@@ -1,0 +1,21 @@
+ipykernel
+pandas
+numpy
+matplotlib
+plotly
+seaborn
+scikit-learn
+pymongo
+from_root
+dill
+certifi
+PyYAML
+boto3 # for aws s3 interaction
+mypy-boto3-s3
+botocore
+fastapi
+python-multipart
+uvicorn
+jinja2
+imblearn
+-e . # ye setup.py mai jaega or setup pr jakr detup dekhega or find packages krega , ye local packages ko envirnment mei save krta hai , to hm jo src mei bnaenge wo install ho jayega and seamless use kr paenge
